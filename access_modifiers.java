@@ -4,7 +4,7 @@ public class access_modifiers{
     public static void main(String[] args) {
         student shiva = new student();
         shiva.setname("Shiva");
-        shiva.setrollno(69);
+        shiva.setrollno(575);
         shiva.setdob(2004);
         System.out.println("The name of the student is "+shiva.getname());
         System.out.println("The year of the birth of "+shiva.getname()+" is "+shiva.getdob());
