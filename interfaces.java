@@ -7,7 +7,7 @@ public class interfaces {
         car.audi();
     }
 }
-//interface used to leave the methord empty and implements ate used to define the methord
+//interface used to leave the methord empty and implements are used to define the methord
 interface A{
     void BMW();
     void audi();
