@@ -16,8 +16,8 @@ class A{
     }
 }
 
-class B{
-    //@override
+class B extends A{
+    @override
     public void meth2(){
         System.out.println("I am form meth2 from class B");
     }
